@@ -1,0 +1,1 @@
+MC Critical: A 1.19.2 Vanilla + modpack focusing on consistency and interconnectivity between the mods.
