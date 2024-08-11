@@ -1,0 +1,14 @@
+{
+	"name": "Map Markers",
+	"icon": "minecraft:map",
+	"category": "patchouli:vanilla_changes",
+    "read_by_default": true,
+	"pages": [
+        {
+            "type": "spotlight",
+            "item": "minecraft:map",
+            "title": "Map Markers",
+            "text": "You can make several new markers on your map by right-clicking a block with a map in your hand. The supported blocks are: $(item)Beacons, Beds, Sign Posts, Nether Portal, Bells, Campfires, Conduits, Lodestones, Respawn Anchors, End Portals,$() and $(item)Flags$(). Holding a $(item)Recovery Compass$() will show you the location of your death on the map."
+	}
+	]
+}

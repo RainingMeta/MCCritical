@@ -1,0 +1,12 @@
+{
+	"name": "New Advancements",
+	"icon": "minecraft:grass_block",
+	"category": "patchouli:intro",
+	"sortnum": 4,
+	"pages": [
+		{
+			"type": "text",
+			"text": "$(thing)Crucial 2$() comes with several new $(item)Advancements$() to help give you new challenges.$(br2)Make sure to click on the $(item)Advancements$() button in the pause menu to check it out!$(br2)Also, you can now see what things are missing for advancements with multiple requirements by holding $(thing)Shift$()."
+		}
+	]
+}

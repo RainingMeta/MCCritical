@@ -1,0 +1,14 @@
+{
+	"name": "Zombie Horse Making",
+	"icon": "minecraft:rotten_flesh",
+	"category": "patchouli:vanilla_changes",
+    "read_by_default": true,
+	"pages": [
+        {
+            "type": "spotlight",
+            "item": "minecraft:rotten_flesh",
+            "title": "Zombie Horse Making",
+            "text": "$(thing)Zombie Horses$() can be made by feeding a $(item) Skeleton Horse$() a stack of $(item)Rotten Flesh$(). It might take a while!"
+        }
+	]
+}

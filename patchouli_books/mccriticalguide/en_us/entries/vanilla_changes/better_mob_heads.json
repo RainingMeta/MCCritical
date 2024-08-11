@@ -1,0 +1,14 @@
+{
+	"name": "Better Mob Heads",
+	"icon": "minecraft:skeleton_skull",
+	"category": "patchouli:vanilla_changes",
+    "read_by_default": true,
+	"pages": [
+        {
+            "type": "spotlight",
+            "item": "minecraft:skeleton_skull",
+            "title": "Better Mob Heads",
+            "text": "$(thing)Mob Heads$() can now have $(item)Candles$() and even other $(item)Mob Heads$() placed on top of them.$(br2)Also, some give you special vision effects when wearing them."
+        }
+	]
+}
