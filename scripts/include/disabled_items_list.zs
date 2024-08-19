@@ -34,6 +34,8 @@ public class DisabledItems {
 		<item:supplementaries:cog_block>,
 		<item:supplementaries:statue>,
 		<item:patchouli:guide_book>,
-		<item:quark:ancient_tome>
+		<item:quark:ancient_tome>,
+		<item:quark:matrix_enchanter>,
+		<item:quark:rope>
 	] as IItemStack[];
 }

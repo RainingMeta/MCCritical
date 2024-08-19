@@ -1,0 +1,14 @@
+{
+	"name": "Quieter Minecarts",
+	"icon": "minecraft:minecart",
+	"category": "patchouli:vanilla_changes",
+    "read_by_default": true,
+	"pages": [
+        {
+            "type": "spotlight",
+            "item": "minecraft:minecart",
+            "title": "Quieter Minecarts",
+            "text": "$(thing)Minecarts$() is quieter when the $(item)Rails$() placed on $(item)Wool$()."
+        }
+	]
+}

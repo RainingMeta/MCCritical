@@ -6,7 +6,7 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "Basic introductions out of the way, let's talk about how you can discover what content $(thing)Crucial 2$() has to offer.$(br2)You might've already noticed the big panel of items on the right of your screen when you open your inventory. If you're a modding veteran, this is nothing new, but for you newbies, we call it $(item)JEI$() ($(item)Just Enough Items$())"
+			"text": "Basic introductions out of the way, let's talk about how you can discover what content $(thing)MC Critical$() has to offer.$(br2)You might've already noticed the big panel of items on the right of your screen when you open your inventory. If you're a modding veteran, this is nothing new, but for you newbies, we call it $(item)JEI$() ($(item)Just Enough Items$())"
 		},
 		{
 			"type": "text",
@@ -14,7 +14,7 @@
 		},
 		{
 			"type": "text",
-			"text": "In $(thing)Crucial 2$(), however, we also introduce some additional systems to help you find the content you desire.$(br2)In addition of being able to search items by their name, you can also search them by $(thing)Category$(), $(thing)Color$(), or both at once!$(br2)For example, you can totally just type $(item)Red Building Blocks$(), and you'll get just that handed to you on a silver platter. Cool, isn't it?"
+			"text": "In $(thing)MC Critical$(), however, we also introduce some additional systems to help you find the content you desire.$(br2)In addition of being able to search items by their name, you can also search them by $(thing)Category$(), $(thing)Color$(), or both at once!$(br2)For example, you can totally just type $(item)Red Building Blocks$(), and you'll get just that handed to you on a silver platter. Cool, isn't it?"
 		},
 		{
 			"type": "text",

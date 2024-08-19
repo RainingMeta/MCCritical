@@ -1,0 +1,14 @@
+{
+	"name": "Poisonous Potato Use",
+	"icon": "minecraft:poisonous_potato",
+	"category": "patchouli:vanilla_changes",
+    "read_by_default": true,
+	"pages": [
+        {
+            "type": "spotlight",
+            "item": "minecraft:poisonous_potato",
+            "title": "Poisonous Potato Use",
+            "text": "$(thing)Poisonous Potatoes$() can be given to $(item)Baby Animals$(). If they are poisoned by this, they will never grow into an adult."
+        }
+	]
+}

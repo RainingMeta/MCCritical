@@ -1,0 +1,14 @@
+{
+	"name": "Compass Works Everywhere",
+	"icon": "minecraft:compass",
+	"category": "patchouli:vanilla_changes",
+    "read_by_default": true,
+	"pages": [
+        {
+            "type": "spotlight",
+            "item": "minecraft:compass",
+            "title": "Compass Works Everywhere",
+            "text": "$(thing)Compasses$() in the $(item)Nether$() point to the enterance portal and in the $(item)End$(), it points to the overworld portal."
+        }
+	]
+}
