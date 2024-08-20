@@ -83,7 +83,7 @@
 	hourglass = true
 
 	[functional.rope]
-		enabled = true
+		enabled = false
 		#Allows ropes to be supported & attached to solid block sides
 		block_side_attachment = true
 		#Makes sliding down ropes as fast as free falling, still negating fall damage

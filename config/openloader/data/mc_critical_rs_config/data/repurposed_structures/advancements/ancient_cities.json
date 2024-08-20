@@ -1,0 +1,22 @@
+{
+  "parent": "repurposed_structures:root",
+  "display": {
+    "icon": {
+      "item": "minecraft:reinforced_deepslate"
+    },
+    "title": {
+      "translate": "Civilization from the Beyond"
+    },
+    "description": {
+      "translate": "Find all new Ancient Cities"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

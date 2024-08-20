@@ -1724,15 +1724,15 @@
 		#Resets all villager discounts when zombified to prevent reducing prices to ridiculous levels
 		"Nerf Villager Discount" = true
 		#Makes Iron Golems not drop Iron Ingots
-		"Disable Iron Farms" = true
+		"Disable Iron Farms" = false
 		#Makes Boats not glide on ice
-		"Disable Ice Roads" = true
+		"Disable Ice Roads" = false
 		#Makes Sheep not drop Wool when killed
-		"Disable Wool Drops" = true
+		"Disable Wool Drops" = false
 		#Disables mob griefing for only specific entities
-		"Enable Selective Mob Griefing" = true
+		"Enable Selective Mob Griefing" = false
 		#Force Elytra to only work in specific dimensions
-		"Enable Dimension Locked Elytra" = true
+		"Enable Dimension Locked Elytra" = false
 		#Makes falling blocks not able to be duped via dimension crossing
 		"Disable Falling Block Dupe" = true
 		#Fixes several piston physics exploits, most notably including TNT duping
